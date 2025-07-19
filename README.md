@@ -1,2 +1,2 @@
-# Atony AI Frontend
-Straightforward AI Interface
+# Atony AI
+This is the frontend for Atony AI - a brutally honest chatbot.
